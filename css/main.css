@@ -1,0 +1,22 @@
+html{
+    margin: 0;
+}
+table{
+    font-family: sans-serif, Helvetica, Arial;
+    width: 100%;
+    margin: 0;
+}
+tr{
+    height: 50px;
+    border: 1px solid red;
+}
+th{
+    background-color: red;
+}
+td{
+    text-align: center;
+}
+
+image{
+    display: block;
+}
